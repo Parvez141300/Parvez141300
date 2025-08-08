@@ -53,7 +53,7 @@ Currently finding opportunities to contribute to a projects.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Current Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 </p>
