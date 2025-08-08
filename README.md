@@ -10,7 +10,7 @@
 ---
 
 ## 🚀 About Me
-I’m a passionate **Full Stack Web Developer** specializing in the **MERN stack**.  
+I’m a passionate about **Mern Stack Web Developer** specializing in the **Frontend**.  
 I enjoy building responsive, user-friendly web applications and learning new technologies to improve my skills.  
 Currently finding opportunities to contribute to a projects.  
 
@@ -18,7 +18,7 @@ Currently finding opportunities to contribute to a projects.
 
 ## 📌 Current Activities
 - 🔭 I’m working on a **Ecommerce website** using MERN Stack.
-- 🌱 I’m exploring **Next.js** for server-side rendering and better performance.
+- 🌱 I’m learning and exploring **Next.js** for server-side rendering and better performance.
 - 💡 I’m improving my backend development skills with **Node.js & MongoDB**.
 
 ---
