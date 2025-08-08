@@ -4,20 +4,20 @@
 </p>
 
 <!-- Name & Designation -->
-<h1 align="center">Hi, I'm Your Full Name 👋</h1>
-<h3 align="center">Fresher MERN Stack Developer | Web Developer</h3>
+<h1 align="center">Hi, I'm Parvez Hossain Alif 👋</h1>
+<h3 align="center">Fresher Frontend Developer | Web Developer</h3>
 
 ---
 
 ## 🚀 About Me
 I’m a passionate **Full Stack Web Developer** specializing in the **MERN stack**.  
 I enjoy building responsive, user-friendly web applications and learning new technologies to improve my skills.  
-Currently seeking opportunities to contribute to exciting and impactful projects.  
+Currently seeking opportunities to contribute to projects.  
 
 ---
 
 ## 📌 Current Activities
-- 🔭 I’m working on a **Tourism Website** using MERN Stack.
+- 🔭 I’m working on a **Ecommerce website** using MERN Stack.
 - 🌱 I’m exploring **Next.js** for server-side rendering and better performance.
 - 💡 I’m improving my backend development skills with **Node.js & MongoDB**.
 
