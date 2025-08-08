@@ -12,7 +12,7 @@
 ## 🚀 About Me
 I’m a passionate **Full Stack Web Developer** specializing in the **MERN stack**.  
 I enjoy building responsive, user-friendly web applications and learning new technologies to improve my skills.  
-Currently seeking opportunities to contribute to projects.  
+Currently finding opportunities to contribute to a projects.  
 
 ---
 
@@ -44,9 +44,9 @@ Currently seeking opportunities to contribute to projects.
 
 ## 🌐 Connect with Me
 <p>
-  <a href="https://github.com/yourusername" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://twitter.com/yourusername" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="https://github.com/Parvez141300" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://www.linkedin.com/in/parvez-hossain-alif/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://x.com/Parvez19188" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
 </p>
 
 ---
