@@ -1,16 +1,65 @@
-## Hi there 👋
-Parvez Hossain Alif
-<!--
-**Parvez141300/Parvez141300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://your-banner-image-link.com/banner.png" alt="Banner" width="100%" />
+</p>
 
-Here are some ideas to get you started:
+<!-- Name & Designation -->
+<h1 align="center">Hi, I'm Your Full Name 👋</h1>
+<h3 align="center">Fresher MERN Stack Developer | Web Developer</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+I’m a passionate **Full Stack Web Developer** specializing in the **MERN stack**.  
+I enjoy building responsive, user-friendly web applications and learning new technologies to improve my skills.  
+Currently seeking opportunities to contribute to exciting and impactful projects.  
+
+---
+
+## 📌 Current Activities
+- 🔭 I’m working on a **Tourism Website** using MERN Stack.
+- 🌱 I’m exploring **Next.js** for server-side rendering and better performance.
+- 💡 I’m improving my backend development skills with **Node.js & MongoDB**.
+
+---
+
+## 🛠 Skills
+
+### **Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react" />
+</p>
+
+### **Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### **Tools & Others**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+<p>
+  <a href="https://github.com/yourusername" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://twitter.com/yourusername" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="Top languages" />
+</p>
