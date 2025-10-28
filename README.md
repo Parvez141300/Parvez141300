@@ -109,33 +109,6 @@ I'm a passionate **Frontend Developer** with expertise in the MERN stack, dedica
   <img src="https://komarev.com/ghpvc/?username=Parvez141300&color=blue&style=for-the-badge" alt="Profile views" />
 </p>
 
----
-
-## 📂 Featured Projects
-
-### 🛒 [Ecommerce Platform](https://github.com/Parvez141300/ecommerce-project)
-_A full-stack ecommerce solution with secure authentication_
-- **Tech:** React, Node.js, Express, MongoDB, Firebase Auth, DaisyUI
-- **Features:** User authentication, product catalog, shopping cart, payment integration
-- **Deployment:** Vercel (Frontend), Firebase (Backend), MongoDB Atlas
-
-### 🔐 [Auth System](https://github.com/Parvez141300/auth-system)
-_Secure authentication system with multiple providers_
-- **Tech:** React, Firebase Authentication, Context API, DaisyUI
-- **Features:** Email/password login, Google OAuth, GitHub OAuth, protected routes
-- **Deployment:** Netlify with serverless functions
-
-### 🌐 [Portfolio Website](https://github.com/Parvez141300/portfolio)
-_Modern responsive portfolio with smooth animations_
-- **Tech:** React, Tailwind CSS, DaisyUI, Framer Motion
-- **Features:** Responsive design, dark mode, project showcase
-- **Deployment:** Vercel with continuous deployment
-
-### 📱 [Task Management App](https://github.com/Parvez141300/task-manager)
-_Productivity application with user authentication_
-- **Tech:** React, Firebase Auth & Firestore, DaisyUI
-- **Features:** CRUD operations, user-specific data, real-time updates
-- **Deployment:** Firebase Hosting with Firestore database
 
 ---
 
@@ -144,8 +117,8 @@ _Productivity application with user authentication_
 ```mermaid
 graph LR
     A[Local Development] --> B[GitHub Repository]
-    B --> C[Vercel/Netlify]
-    B --> D[Firebase Hosting]
+    B --> C[Netlify/Firebase Hosting]
+    B --> D[Vercel Hosting]
     C --> E[Live Frontend]
     D --> F[Live Backend]
     E --> G[User Access]
