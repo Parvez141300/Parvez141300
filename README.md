@@ -116,9 +116,9 @@ interface FullStackExpertise {
     language: 'TypeScript';
   };
   backend: {
-    framework: 'Next.js API Routes' | 'Express';
-    database: ['PostgreSQL', 'MongoDB'];
-    orm: ['Prisma', 'Mongoose'];
+    framework: 'Express';
+    database: ['PostgreSQL'];
+    orm: ['Prisma'];
     language: 'TypeScript';
   };
   auth: {
