@@ -61,7 +61,7 @@ I'm a passionate **Frontend Developer** with expertise in the MERN stack and **N
 
 ### **Tools & Platforms**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" alt="Tools" />
 </p>
 
 ---
