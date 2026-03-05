@@ -73,7 +73,7 @@ I'm a passionate **Frontend Developer** with expertise in the MERN stack and **N
 - 💡 **Improving:** Backend development with PostgreSQL & Prisma, type-safe database queries
 - 🎨 **Exploring:** Shadcn/ui for beautiful, accessible component development
 - 🔐 **Implementing:** Better-Auth for secure, modern authentication solutions
-- 🚀 **Deploying:** Full-stack Next.js applications on Vercel
+- 🚀 **Deploying:** Full-stack Next.js and Express.js applications on Vercel
 - 🎯 **Goal:** Building full-stack TypeScript applications with end-to-end type safety
 
 ---
