@@ -49,7 +49,7 @@ I'm a passionate **Frontend Developer** with expertise in the MERN stack and **N
 
 ### **Backend & Database**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,mongodb,postgres,prisma,firebase" alt="Backend Technologies" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,firebase" alt="Backend Technologies" />
 </p>
 
 ### **Authentication & Deployment**
