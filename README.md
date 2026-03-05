@@ -117,7 +117,7 @@ interface FullStackExpertise {
   };
   backend: {
     framework: 'Express';
-    database: ['PostgreSQL'];
+    database: ['PostgreSQL', 'MongoDB'];
     orm: ['Prisma'];
     language: 'TypeScript';
   };
