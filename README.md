@@ -7,7 +7,7 @@
 
 <!-- Header Section -->
 <h1 align="center">👋 Hello, I'm Parvez Hossain Alif</h1>
-<h3 align="center">Frontend Developer | Next.js | React.js | Node.js | Express.js | Prisma PostGreSQL | MongoDB | Passionate about Building Digital Experiences</h3>
+<h3 align="center">Frontend Developer | Next.js | React.js | Node.js | Express.js | Prisma PostGreSQL | MongoDB | Passionate about Building Web app and gain Experience</h3>
 
 <p align="center">
   <a href="https://github.com/Parvez141300?tab=repositories">
