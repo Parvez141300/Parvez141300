@@ -54,9 +54,8 @@ I'm a passionate **Frontend Developer** with expertise in the MERN stack and **N
 
 ### **Authentication & Deployment**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=firebase,netlify,vercel" alt="Deployment" />
-  <img src="https://img.shields.io/badge/Firebase%20Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Auth" />
   <img src="https://img.shields.io/badge/Better--Auth-6B46C1?style=for-the-badge&logo=auth0&logoColor=white" alt="Better-Auth" />
+  <img src="https://skillicons.dev/icons?i=firebase,netlify,vercel" alt="Deployment" />
 </p>
 
 ### **Tools & Platforms**
