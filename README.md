@@ -25,7 +25,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Frontend Developer** with expertise in the MERN stack and **Next.js**, dedicated to crafting responsive, user-friendly web applications. I thrive on transforming complex problems into elegant solutions and continuously expanding my technical knowledge.
+I'm a passionate **Frontend Developer** with expertise in the MERN stack and **Next.js**, **Prisma PostGreSQL**, dedicated to crafting responsive, user-friendly web applications. I thrive on transforming complex problems into elegant solutions and continuously expanding my technical knowledge.
 
 **What drives me:**
 - 💻 Building intuitive user interfaces with modern frameworks like React and Next.js
