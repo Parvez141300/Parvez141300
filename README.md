@@ -67,7 +67,7 @@ I'm a passionate **Frontend Developer** with expertise in the MERN stack and **N
 
 ## 📌 Currently
 
-- 🔭 **Working on:** Ecommerce website using Next.js, PostgreSQL, Prisma with Better-Auth
+- 🔭 **Working on:** Zentro Hr & payroll sass & erp website application using Next.js, PostgreSQL, Prisma with Better-Auth
 - 🌱 **Deepening expertise:** Next.js App Router, Server Components, and API routes
 - 💡 **Improving:** Backend development with PostgreSQL & Prisma, type-safe database queries
 - 🎨 **Exploring:** Shadcn/ui for beautiful, accessible component development
