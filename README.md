@@ -87,8 +87,8 @@ I'm a passionate **Frontend Developer** with expertise in the MERN stack and **N
 
 ### **Databases & ORMs**
 - **PostgreSQL:** Relational database management
-- **Prisma:** Type-safe ORM with migrations and query building
-- **MongoDB:** NoSQL database with Mongoose ODM
+- **Prisma:** Type-safe ORM with migrations and query building for the PostgreSQL DB
+- **MongoDB:** NoSQL database
 - **MongoDB Atlas:** Cloud database management
 
 ### **Deployment Platforms**
