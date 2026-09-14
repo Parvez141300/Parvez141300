@@ -60,7 +60,7 @@ I'm a passionate **Frontend Developer** with expertise in the MERN stack and **N
 
 ### **Tools & Platforms**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,figma" alt="Tools" />
 </p>
 
 ---
@@ -70,7 +70,7 @@ I'm a passionate **Frontend Developer** with expertise in the MERN stack and **N
 - 🔭 **Working on:** Zentro Hr & payroll sass & erp website application using Next.js, PostgreSQL, Prisma with Better-Auth
 - 🌱 **Deepening expertise:** Next.js App Router, Server Components, and API routes
 - 💡 **Improving:** Backend development with PostgreSQL & Prisma, type-safe database queries
-- 🎨 **Exploring:** Shadcn/ui for beautiful, accessible component development
+- 🎨 **Exploring:** Docker and Shadcn/ui for beautiful, accessible component development
 - 🔐 **Implementing:** Better-Auth for secure, modern authentication solutions
 - 🚀 **Deploying:** Full-stack Next.js and Express.js applications on Vercel
 - 🎯 **Goal:** Building full-stack TypeScript applications with end-to-end type safety
