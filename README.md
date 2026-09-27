@@ -131,4 +131,8 @@ interface FullStackExpertise {
     platforms: ['Vercel', 'Netlify', 'Firebase'];
     features: ['CI/CD', 'Serverless Functions', 'Edge Computing'];
   };
+  devops: {
+    containerization: ['Docker'];
+    tools: ['Git', 'GitHub', 'Postman', 'Figma'];
+  };
 }
