@@ -45,9 +45,9 @@ I'm a passionate **Full Stack/Frontend/Backend Developer** with expertise in the
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,nextjs" alt="Frontend Technologies" />
   <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" alt="DaisyUI" />
   <img src="https://img.shields.io/badge/Shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="Shadcn/ui" />
-  <img src="https://shields.io" alt="TanStack Query" />
-  <img src="https://shields.io" alt="TanStack Form" />
-  <img src="https://shields.io" alt="TanStack Table" />
+  <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query" />
+  <img src="https://img.shields.io/badge/TanStack%20Form-FF4154?style=for-the-badge" alt="TanStack Form" />
+  <img src="https://img.shields.io/badge/TanStack%20Table-FF4154?style=for-the-badge" alt="TanStack Table" />
 </p>
 
 ### **Backend & Database**
