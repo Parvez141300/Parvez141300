@@ -7,7 +7,7 @@
 
 <!-- Header Section -->
 <h1 align="center">👋 Hello, I'm Parvez Hossain Alif</h1>
-<h3 align="center">Full Stack/Frontend Web Developer | Next.js | React.js | Node.js | Express.js | Prisma PostGreSQL | MongoDB | Passionate about Building Web app and gain Experience</h3>
+<h3 align="center">Full Stack/Frontend Web Developer | Next.js | React.js | Node.js | Express.js | Prisma PostGreSQL | MongoDB | Stripe & SSLCommerz | Passionate about Building Web app and gain Experience</h3>
 
 <p align="center">
   <a href="https://github.com/Parvez141300?tab=repositories">
@@ -30,6 +30,7 @@ I'm a passionate **Full Stack/Frontend/Backend Developer** with expertise in the
 **What drives me:**
 - 💻 Building intuitive user interfaces with modern frameworks like React and Next.js
 - 🔐 Implementing secure authentication systems using Better-Auth and Firebase
+- 💳 Integrating secure payment gateways like **Stripe** and **SSLCommerz**
 - 📊 Working with PostgreSQL and Prisma for robust database solutions
 - 🚀 Deploying scalable applications to cloud platforms
 - 🎨 Creating beautiful UIs with component libraries like Shadcn/ui and DaisyUI
@@ -55,9 +56,11 @@ I'm a passionate **Full Stack/Frontend/Backend Developer** with expertise in the
   <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,prisma,firebase" alt="Backend Technologies" />
 </p>
 
-### **Authentication & Deployment**
+### **Authentication & Payments**
 <p align="left">
   <img src="https://img.shields.io/badge/Better--Auth-6B46C1?style=for-the-badge&logo=auth0&logoColor=white" alt="Better-Auth" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
+  <img src="https://img.shields.io/badge/SSLCommerz-0066B3?style=for-the-badge&logo=sslcommerz&logoColor=white" alt="SSLCommerz" />
   <img src="https://skillicons.dev/icons?i=firebase,netlify,vercel" alt="Deployment" />
 </p>
 
@@ -70,9 +73,10 @@ I'm a passionate **Full Stack/Frontend/Backend Developer** with expertise in the
 
 ## 📌 Currently
 
-- 🔭 **Working on:** Zentro Hr & payroll sass & erp website application using Next.js, Express.js, Prisma PostgreSQL and for authentication I am using Better-Auth
+- 🔭 **Working on:** Zentro HR & payroll SaaS & ERP website application using Next.js, Express.js, Prisma PostgreSQL, with **Stripe** for global payments and **SSLCommerz** for local (Bangladesh) payments
 - 🌱 **Deepening expertise:** Next.js App Router, Server Components, and API routes
 - 💡 **Improving:** Backend development with PostgreSQL & Prisma, type-safe database queries
+- 💳 **Mastering:** Payment gateway integrations — **Stripe** (Checkout, Subscriptions, Webhooks) and **SSLCommerz** (Hosted & API-based checkout)
 - 🎨 **Exploring:** Docker and Shadcn/ui for beautiful, accessible component development
 - 🔐 **Implementing:** Better-Auth for secure, modern authentication solutions
 - 🚀 **Deploying:** Full-stack Next.js and Express.js applications on Vercel
@@ -80,13 +84,18 @@ I'm a passionate **Full Stack/Frontend/Backend Developer** with expertise in the
 
 ---
 
-## 🔐 Authentication & Deployment Expertise
+## 🔐 Authentication, Payments & Deployment Expertise
 
 ### **Authentication**
 - **Better-Auth:** Modern authentication for Next.js applications
 - **Firebase Authentication:** Email/password, Google, GitHub OAuth
 - **JWT Tokens:** Secure API authentication
 - **Session Management:** Cookie-based and token-based auth
+
+### **Payment Gateways**
+- **Stripe:** Global payments — Checkout Sessions, Payment Intents, Subscriptions, Webhooks
+- **SSLCommerz:** Local (Bangladesh) payments — Hosted Checkout, IPN/Webhooks, Refunds
+- **Payment Flow:** Secure server-side session creation, webhook verification, and order fulfillment
 
 ### **Databases & ORMs**
 - **PostgreSQL:** Relational database management
@@ -126,6 +135,10 @@ interface FullStackExpertise {
   auth: {
     solutions: ['Better-Auth', 'Firebase Auth', 'JWT'];
     features: ['OAuth', 'Email/Password', 'Session Management'];
+  };
+  payments: {
+    gateways: ['Stripe', 'SSLCommerz'];
+    features: ['Checkout Sessions', 'Payment Intents', 'Subscriptions', 'Webhooks', 'IPN', 'Refunds'];
   };
   deployment: {
     platforms: ['Vercel', 'Netlify', 'Firebase'];
