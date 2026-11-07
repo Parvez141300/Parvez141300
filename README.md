@@ -56,13 +56,15 @@ I'm a passionate **Full Stack/Frontend/Backend Developer** with expertise in the
   <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,prisma,firebase" alt="Backend Technologies" />
 </p>
 
-### **Authentication & Payments**
+### **Authentication & Deployment**
 <p align="left">
   <img src="https://img.shields.io/badge/Better--Auth-6B46C1?style=for-the-badge&logo=auth0&logoColor=white" alt="Better-Auth" />
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
-  <img src="https://img.shields.io/badge/SSLCommerz-0066B3?style=for-the-badge&logo=sslcommerz&logoColor=white" alt="SSLCommerz" />
   <img src="https://skillicons.dev/icons?i=firebase,netlify,vercel" alt="Deployment" />
 </p>
+
+### **Payment Gateway**
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
+<img src="https://img.shields.io/badge/SSLCommerz-0066B3?style=for-the-badge&logo=sslcommerz&logoColor=white" alt="SSLCommerz" />
 
 ### **Tools & Platforms**
 <p align="left">
