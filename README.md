@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.ibb.co/chyZt6Yw/github-banner-design.png" width="100%" />
+  <img src="https://res.cloudinary.com/dapbx8al2/image/upload/v1794051999/github-banner-design_asbcms.png" width="100%" />
 </p>
 
 ---
