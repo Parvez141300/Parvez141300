@@ -63,8 +63,10 @@ I'm a passionate **Full Stack/Frontend/Backend Developer** with expertise in the
 </p>
 
 ### **Payment Gateway**
-<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
-<img src="https://img.shields.io/badge/SSLCommerz-0066B3?style=for-the-badge&logo=sslcommerz&logoColor=white" alt="SSLCommerz" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
+  <img src="https://img.shields.io/badge/SSLCommerz-0066B3?style=for-the-badge&logo=sslcommerz&logoColor=white" alt="SSLCommerz" />
+</p>
 
 ### **Tools & Platforms**
 <p align="left">
