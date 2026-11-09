@@ -150,6 +150,6 @@ interface FullStackExpertise {
   };
   devops: {
     containerization: ['Docker'];
-    tools: ['Git', 'GitHub', 'Postman', 'Figma'];
+    tools: ['Git', 'GitHub', 'Postman', 'ThunderClient', 'Figma'];
   };
 }
